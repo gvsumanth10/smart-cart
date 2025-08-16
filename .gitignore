@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.env
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual env
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Screenshots and CSV outputs
+*.png
+*.csv
+
